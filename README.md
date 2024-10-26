@@ -2,7 +2,7 @@
 
 ---
 
-<img align="right" alt="GIF" width="160px" src="https://i.pinimg.com/originals/d8/e4/3b/d8e43bae5ab4a30cf06a35de4989d7c6.gif"/>
+<img align="right" alt="GIF" width="150px" src="https://i.pinimg.com/originals/d8/e4/3b/d8e43bae5ab4a30cf06a35de4989d7c6.gif"/>
 
  ### About me: 
 <p>
