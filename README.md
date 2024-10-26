@@ -38,7 +38,7 @@ My goal is to learn more about programming and learn astrophysics to work in ast
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tools & Languages</b>
 <br>
 
-Note: I know how to use these tools & languages, but i'm not a professional & i dont have a total experience in these subjects. <img src="https://emojis.slackmojis.com/emojis/images/1643514812/8267/blob-lurk.gif?1643514812" width = "20px"/> 
+Important note: I know how to use these tools & languages, but i'm not a professional & i dont have a total experience in these subjects. <img src="https://emojis.slackmojis.com/emojis/images/1643514812/8267/blob-lurk.gif?1643514812" width = "20px"/> 
 
 ### <u> 🧑🏻‍💻Languages: </u>
 <br>
