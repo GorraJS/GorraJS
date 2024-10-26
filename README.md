@@ -15,6 +15,8 @@ My goal is to learn more about programming and learn astrophysics to work in ast
 ---
 <img src="https://i.pinimg.com/originals/1c/4a/45/1c4a4596912277e7b3b209f1ccf49927.gif"/>
 
+---
+
 ## <img src="https://cdn3.emoji.gg/emojis/29160-crown-yellow.gif" width="30px"/> Stats 
 <table align="center">
   <tr border="none">
