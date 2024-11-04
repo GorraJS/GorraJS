@@ -20,9 +20,11 @@ My goal is to learn more about programming and learn astrophysics to work in ast
 ## <img src="https://cdn3.emoji.gg/emojis/29160-crown-yellow.gif" width="30px"/> Stats 
 <table align="center"> 
 <tr border="none">
-
+ <td algin="center">
+  
 [![](https://github-readme-stats.vercel.app/api?username=GorraJS&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/GorraJS)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=GorraJS&theme=tokyonight&hide_border=true&locale=en)](https://github.com/GorraJS)
+</td>
 </tr>
 </table>
 
