@@ -1,4 +1,4 @@
-# <img src = "https://emojis.slackmojis.com/emojis/images/1643514985/10121/portal_blue_parrot.gif?1643514985" width="30px"> <b>Welcome to my GitHub </b> <img src="https://emojis.slackmojis.com/emojis/images/1643514985/10122/portal_orange_parrot.gif?1643514985" width = "30px"> 
+# <b>Welcome to my GitHub </b>
 
 ---
 
@@ -19,19 +19,12 @@ My goal is to learn more about programming and learn astrophysics to work in ast
 
 ## <img src="https://cdn3.emoji.gg/emojis/29160-crown-yellow.gif" width="30px"/> Stats 
 <table align="center">
+ 
   <tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=GorraJS&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=GorraJS&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats" /> 
-</td>
 
-<td width="50%" align="center">
+[![](https://github-readme-stats.vercel.app/api?username=GorraJS&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/GorraJS)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=GorraJS&theme=material-palenight)](https://github.com/GorraJS)
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GorraJS&langs_count=8&theme=tokyonight&hide_border=true"/>
-  
-  </td>
 </tr>
 </table>
 
